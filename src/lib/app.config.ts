@@ -1,3 +1,3 @@
 export const appConfig = {
-    title: 'My Website',
-}
+	title: 'My Website'
+};
